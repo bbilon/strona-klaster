@@ -1,0 +1,9 @@
+
+.body{
+  background-image: background.jpg;
+}
+.submenu{   
+display:none;
+}
+.submenu:target{
+    display:block;}
